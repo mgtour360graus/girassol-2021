@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.2" start="node15" apprev="17873">
+  <panorama id="node15">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="225">
+      <start fov="76.91" pan="0" tilt="0" projection="4"/>
+      <flyin fov="294.64" pan="-176.21" tilt="-101.1" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node15" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:21"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="" id="Point01" url="{node14}" pan="-359.81" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.48" description=""/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" tiltsize="10.000" loop="10" pan="-1.000" ambientlevel="0.000" level="0.500" field="90.000" tilt="-1.000" nodechangekeep="0" pansize="10.000">
+        <source url="media/girassol.mp3"/>
+      </sound>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-80.110" blinding="50.000" type="3" tilt="63.090"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="83.6522" pan="-0.190467" tilt="-0.214619" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node14" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:21"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="0.0/0.0/99.2" id="Point01" url="{node15}" pan="-175.76" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.11" description=""/>
+      <hotspot target="0.0/0.0/76.7" id="Point02" url="{node13}" pan="-359.98" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.75" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-84.410" blinding="50.000" type="3" tilt="63.900"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="76.6701" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node13" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:22"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="" id="Point01" url="{node11}" pan="-359.81" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="0.09" description=""/>
+      <hotspot target="-178.2/-0.2/83.7" id="Point02" url="{node14}" pan="-182.77" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-3.01" description=""/>
+      <hotspot target="88.7/0.0/91.1" id="Point03" url="{node12}" pan="-270.63" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.09" description=""/>
+      <hotspot target="-92.1/-1.9/106.3" id="Point04" url="{node7}" pan="-90.62" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="0.1" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-82.500" blinding="50.000" type="3" tilt="61.850"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="225">
+      <start fov="83.6522" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node11" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:24"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="" id="Point01" url="{node10}" pan="-359.57" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.75" description=""/>
+      <hotspot target="177.0/0.0/76.7" id="Point02" url="{node13}" pan="-178" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="0.11" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-79.070" blinding="50.000" type="3" tilt="63.330"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="98.3008" pan="0" tilt="-2.25251e-05" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node10" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:24"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="-178.0/0.0/83.7" id="Point01" url="{node11}" pan="-176.64" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.42" description=""/>
+      <hotspot target="-30.2/0.0/98.3" id="Point02" url="{node9}" pan="-309.35" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="0.14" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-85.210" blinding="50.000" type="3" tilt="61.070"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="98.3008" pan="-30.1987" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node9" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:25"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="-87.0/-0.0/98.3" id="Point01" url="{node10}" pan="-89.92" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-1.25" description=""/>
+      <hotspot target="-7.4/0.0/98.3" id="Point02" url="{node8}" pan="-348.92" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.33" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-83.860" blinding="50.000" type="3" tilt="62.400"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="225">
+      <start fov="98.3008" pan="-7.36736" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node8" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:26"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="-94.8/-2.2/98.3" id="Point01" url="{node9}" pan="-149.6" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-2.44" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-6.780" blinding="50.000" type="3" tilt="60.690"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="91.13" pan="3.65159" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node12" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:23"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="18.7/0.0/98.3" id="Point01" url="{node5}" pan="-270.57" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="0.86" description=""/>
+      <hotspot target="-91.0/0.0/76.7" id="Point02" url="{node13}" pan="-89.79" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="0.1" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-80.760" blinding="50.000" type="3" tilt="62.200"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="106.335" pan="-3.7543" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node7" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:28"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="18.7/-1.3/83.7" id="Point01" url="{node6}" pan="-91.14" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-1.74" description=""/>
+      <hotspot target="89.2/-3.4/76.7" id="Point02" url="{node13}" pan="-272.48" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-3.36" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-85.100" blinding="50.000" type="3" tilt="59.420"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="83.6522" pan="14.072" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node6" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:29"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="87.2/-3.2/106.3" id="Point01" url="{node7}" pan="-297.51" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-1.39" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-130.120" blinding="50.000" type="5" tilt="74.590"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="98.3008" pan="18.6828" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node5" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:33"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="0.0/-0.2/83.7" id="Point01" url="{node4}" pan="-271.31" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.19" description=""/>
+      <hotspot target="-90.4/-2.3/91.1" id="Point02" url="{node12}" pan="-35.1" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.26" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-23.360" blinding="50.000" type="3" tilt="57.130"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="225">
+      <start fov="83.6522" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node4" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:34"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="-24.9/0.0/90.9" id="Point01" url="{node3}" pan="-26.54" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.28" description=""/>
+      <hotspot target="-10.4/1.1/98.3" id="Point02" url="{node5}" pan="-137.79" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="0.9" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-48.210" blinding="50.000" type="3" tilt="64.060"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="90.8731" pan="-24.8836" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node3" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:37"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="5.7/0.0/78.8" id="Point01" url="{node2}" pan="-11.25" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.34" description=""/>
+      <hotspot target="-138.0/-5.0/83.7" id="Point02" url="{node4}" pan="-188.98" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-1.74" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-32.010" blinding="50.000" type="3" tilt="61.830"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2250" overlap="1" levelbiashidpi="1.000" height="2250" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0.400262" levelingpitch="0.6383490000000001" leveltilesize="510">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="88.5208" pan="11.8513" tilt="-5.06374" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90"/>
+    </view>
+    <userdata author="RIBEIRO" comment="" tags="PANORAMICA" info="" nodeid="node2" customnodeid="" latitude="-23.422757" copyright="MG TOUR 360 GRAUS" title="MG TOUR 360 GRAUS " source="" longitude="-51.906611" description="" datetime="17/02/2021 14:38"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" bordercolor="0x000000" height="20" backgroundalpha="1" textcolor="0x000000" border="1" enabled="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" wordwrap="1"/>
+      <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="167.1/0.0/90.9" id="Point01" url="{node3}" pan="-225.5" title="MG TOUR 360 GRAUS " skinid="ht_node" tilt="-0.14" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" id="Lensflare01" pan="-20.760" blinding="50.000" type="3" tilt="58.070"/>
+    </media>
+    <transition blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomin="0" zoomout="0" enabled="1" softedge="0" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+    <autorotate speed="0.040" noderandom="1" delay="10.00" nodedelay="0.00" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" sensitivity="8" contextprojections="0" rubberband="0" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" tags="" info="" nodeid="master" customnodeid="" latitude="" copyright="" title="" source="" longitude="" description="" datetime=""/>
+  </masternode>
+</tour>
